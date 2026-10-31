@@ -2,8 +2,6 @@
 #include <sstream>
 #include <fstream>
 #include <string>
-#include <stdio.h>
-#include <time.h>
 #define max 100
 
 using namespace std;
